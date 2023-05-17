@@ -1,9 +1,9 @@
 I've just flown into the US from Prague and will be traveling alot while completing this certificate.  I completed the R preclass, so I hope I am prepared for what lies ahead.  I use a lot of tools to help me make sure that my coding is correct and I hope that that will not interfere with things like the exams or projects.  The way I think of it, we should be learning to use tools like AI to our advantage rather than trying to compete with them.  Those that adapt will succeed those that do not will be left behind.
-```{r}
-library(tidyverse)
-install.packages("readr")
-library(readr)
-
-
-scores <- read_csv("https://www4.stat.ncsu.edu/~online/datasets/scoresFull.csv")
-scores```
+Some tsql code
+```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
+ 
+ Just using the demo provided...
