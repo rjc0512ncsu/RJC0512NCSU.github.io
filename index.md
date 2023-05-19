@@ -4,5 +4,5 @@ My name is Ryan Craft.  I'm currently a middle and high school science teacher. 
 
 
 
-![Garfield]([https://vegatee.com/wp-content/uploads/2020/08/big-lots-grumpy-cat-and-garfield-i-hate-all-days-shirt-Shirt.jpg)]
+![Garfield]([https://vegatee.com/wp-content/uploads/2020/08/big-lots-grumpy-cat-and-garfield-i-hate-all-days-shirt-Shirt.jpg])
 
