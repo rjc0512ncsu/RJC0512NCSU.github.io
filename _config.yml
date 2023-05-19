@@ -21,6 +21,10 @@ description: "Blog created for NCSU ST558"
 theme: "minima"
 
 rss: rss
+output:
+  html_document:
+    self_contained: false
+    keep_md: true
 
 kramdown:
   syntax_highlighter_opts:
