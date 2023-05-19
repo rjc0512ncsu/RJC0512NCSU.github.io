@@ -4,5 +4,5 @@ My name is Ryan Craft.  I used to be a neuroscience researcher for psychiatric a
 
 
 
-![Garfield]([https://vegatee.com/wp-content/uploads/2020/08/big-lots-grumpy-cat-and-garfield-i-hate-all-days-shirt-Shirt.jpg])
+![Garfield](https://vegatee.com/wp-content/uploads/2020/08/big-lots-grumpy-cat-and-garfield-i-hate-all-days-shirt-Shirt.jpg)
 
