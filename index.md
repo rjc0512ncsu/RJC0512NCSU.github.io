@@ -8,6 +8,8 @@ Here's a list of things I care about most:
 3. Living a healthy and happy life
 
 
+A shirt that reflects my feelings about most things.
 
+My email:rjc0512@ncsu.edu
 ![Garfield](https://vegatee.com/wp-content/uploads/2020/08/big-lots-grumpy-cat-and-garfield-i-hate-all-days-shirt-Shirt.jpg)
 
