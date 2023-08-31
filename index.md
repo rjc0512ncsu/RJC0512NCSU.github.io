@@ -6,10 +6,10 @@ Here's a list of things I care about most:
 1. My wife
 2. My puppy
 3. Living a healthy and happy life
-
+My email:rjcraft@ncsu.edu
 
 A shirt that reflects my feelings about most things.
 
-My email:rjcraft@ncsu.edu
+
 ![Garfield](https://vegatee.com/wp-content/uploads/2020/08/big-lots-grumpy-cat-and-garfield-i-hate-all-days-shirt-Shirt.jpg)
 
