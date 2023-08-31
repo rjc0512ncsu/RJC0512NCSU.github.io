@@ -4,9 +4,9 @@ description: "Blog created for NCSU ST558"
 
 Email / Social media user names used by the minima theme: rjcraft@ncsu.edu
 # All of these are optional and can be removed or commented out
-email: rjcraft@ncsu.edu
+email: "rjcraft@ncsu.edu"
 #twitter_username: "twitteruser"
-#github_username: "githubuser"
+github_username: "RJC0512NCSU"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
